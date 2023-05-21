@@ -1,9 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import { Title } from './components/Title';
+import { InputForm } from './components/InputForm';
 
 function App() {
   return (
-    <div className="App"></div>
+    <div className="body">
+			<Title />
+			<InputForm />
+		</div>
   );
 }
 
