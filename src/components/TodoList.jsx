@@ -10,10 +10,10 @@ export const TodoList = () => {
 					</div>
 					<div className="icons">
 						<button>
-							<i class="fas fa-check"></i>
+							<i className="fas fa-check"></i>
 						</button>
 						<button>
-							<i class="fas fa-trash"></i>
+							<i className="fas fa-trash"></i>
 						</button>
 					</div>
 				</div>
